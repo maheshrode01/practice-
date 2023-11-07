@@ -1,3 +1,12 @@
 mdn - use this website read documentkation
 
 origanal documentkation  tc39.es in website 
+
+primitive data type=> this is the call by valueInNumber
+ => 7 types :> string ,Number , Boolean, null, undefined ,Symbol, BigInt(large value)
+ 
+ 
+ NonPrimitive=> Array, object, function
+
+ what
+              
